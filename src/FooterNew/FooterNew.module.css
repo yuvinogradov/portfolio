@@ -1,0 +1,17 @@
+.footerBlock {
+  /* min-height: 100vh; */
+  background-color: #ceecff;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.title {
+  background-color: #eeeee5;
+}

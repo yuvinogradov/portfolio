@@ -11,6 +11,16 @@ type SkillType = {
 const skillsList: Array<SkillType> = [
   { title: "HTML", description: "Experienced HTML professional" },
   { title: "JS", description: "Talented JavaScript developer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
+  { title: "React", description: "Inspired React programmer" },
   { title: "React", description: "Inspired React programmer" }
 ];
 

@@ -1,11 +1,10 @@
-.projectsBlock {
-  min-height: 100vh;
-  background-color: #ffd4c0;
+.ContactsFormBlock {
+  background-color: #f4ffb3;
 
   /* align-items: center; */
 }
 
-.projectsContainer {
+.ContactsFormContainer {
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -13,14 +12,12 @@
 .title {
   background-color: #eeeee5;
 }
-
-.projects {
+/* 
+.skills {
   width: 100%;
   border: 1px solid;
   display: flex;
-  /*flex-direction: row;*/
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  /* margin-bottom: 40px; */
-}
+} */
