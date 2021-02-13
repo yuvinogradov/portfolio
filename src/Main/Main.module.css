@@ -1,5 +1,5 @@
 .mainBlock {
-  height: 100vh;
+  min-height: 100vh;
   background-color: #ffd4f0;
 }
 
@@ -10,7 +10,7 @@
   margin: 0 auto;
   display: flex;
   align-items: center;
-  /* justify-content: space-around; */
+   /*justify-content: space-around; */
 }
 .text {
   width: 300px;

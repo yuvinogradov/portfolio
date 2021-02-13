@@ -8,19 +8,10 @@ export default function ContactsForm() {
       <div className={`${styleContainer.container} ${s.ContactsFormContainer}`}>
         <h2 className={s.title}>Contact me</h2>
         <form>
-          <div>
-            {" "}
             <input type="text" placeholder={"Name"} />
-          </div>
-          <div>
             <input type="text" placeholder={"Email"} />
-          </div>
-          <div>
-            <input type="textarea" />
-          </div>
-          <div>
+            <textarea  placeholder={'Message'}/>
             <button>Submit</button>
-          </div>
         </form>
       </div>
     </div>
