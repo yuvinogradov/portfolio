@@ -2,7 +2,7 @@ import React from "react";
 import s from "./FooterBlock.module.css";
 import Nav from "../Nav/Nav";
 
-function FooterBlock() {
+function FooterNew() {
   return (
     <div className={s.footerBlock}>
       <div className={s.footerContainer}>
@@ -12,4 +12,4 @@ function FooterBlock() {
   );
 }
 
-export default FooterBlock;
+export default FooterNew;
