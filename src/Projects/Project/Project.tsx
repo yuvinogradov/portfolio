@@ -15,7 +15,7 @@ function Project(props: any) {
       <div
         className={s.image}
         style={styleImageUrl}
-        tabindex={0}
+        tabIndex={0}
         role="button"
         onClick={() => {
           handleClick("link");

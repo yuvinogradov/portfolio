@@ -40,6 +40,7 @@ function Skills() {
           {skillsList.map((item) => {
             return (
               <Skill
+                key={item.title}
                 title={item.title}
                 icon={item.icon}
                 description={item.description}
