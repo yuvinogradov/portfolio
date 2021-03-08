@@ -1,3 +1,18 @@
 .App {
+  font-family: "Parisienne", sans-serif;
+  /* font-family: "Josefin Sans", sans-serif; */
+}
 
+.App > :nth-child(odd) {
+  background-color: #333;
+
+  /* @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap"); */
+}
+
+.App > :nth-child(even) {
+  background-color: #222;
+}
+
+.App > :nth-child(1) {
+  background-color: #444;
 }

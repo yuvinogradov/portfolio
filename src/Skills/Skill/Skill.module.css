@@ -9,8 +9,17 @@
   box-sizing: border-box;
 }
 
-.icon {
+.iconContainer {
   height: 60px;
   width: 60px;
-  background-color: #eeeef5;
+  background-color: #aaaaf5;
+}
+
+.icon {
+  width: 100%;
+  height: 100%;
+}
+
+.description {
+  min-height: 1.1em;
 }

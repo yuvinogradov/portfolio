@@ -1,16 +1,19 @@
 .mainBlock {
   min-height: 100vh;
   background-color: #ffd4f0;
+  /* padding-top: 100px; */
 }
 
 .container {
-  border: 1px solid;
+  /* border: 1px solid;
   height: 100%;
   width: 80%;
   margin: 0 auto;
   display: flex;
-  align-items: center;
-   /*justify-content: space-around; */
+  align-items: center; */
+  padding-top: 150px;
+
+  /*justify-content: space-around; */
 }
 .text {
   width: 300px;
